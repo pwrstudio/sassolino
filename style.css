@@ -1,0 +1,44 @@
+body {
+    background: red;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 18px;
+    line-height: 1em;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+img {
+    max-width: 90%;
+}
+
+h1 {
+    font-weight: normal;
+
+}
+
+#top_container {
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 60%;
+}
+
+.item_container {
+    margin: 40px;
+    margin-bottom: 10px;
+}
