@@ -5,7 +5,7 @@ A very small flat-file CMS.
 
 Made by [PWR Studio](http://www.pwr-stud.io) at [Sasso Residency](http://www.sasso-residency.ch/)
 
-[Exemple site](http://www.pwr-stud.io/sassolino)
+[Example site](http://www.pwr-stud.io/sassolino)
 
 sassolino will output a simple website from a structure of folders. If will create a page for each folder and automatically show the files within.
 
