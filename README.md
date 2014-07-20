@@ -18,6 +18,8 @@ Currently the following material will be shown
 
 Put the files in the root folder of your site.
 
+Rename the file “htaccess” to “.htaccess”
+
 Requires PHP and mod_rewrite
 
 ##Use

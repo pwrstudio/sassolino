@@ -9,7 +9,9 @@ Currently the following material will be shown
 
 ##Install
 
-Simply [download the files](https://github.com/pwrstudio/sassolino) and put them in the root folder of your site.
+[Download the files](https://github.com/pwrstudio/sassolino) and put them in the root folder of your site.
+
+Rename the file “htaccess” to “.htaccess”
 
 ##Use
 
