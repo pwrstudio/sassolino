@@ -18,7 +18,7 @@ Currently the following material will be shown
 
 ##Install
 
-(1) Put the files in the root folder of your site.
+(1) Put the files in the root folder of your server.
 
 (2) Rename the file “htaccess” to “.htaccess”
 
