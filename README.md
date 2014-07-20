@@ -1,7 +1,9 @@
 sassolino
 =========
 
-A very small flat-file CMS. Made by [PWR Studio](http://www.pwr-stud.io) at [Sasso Residency](http://www.sasso-residency.ch/)
+A very small flat-file CMS. 
+
+Made by [PWR Studio](http://www.pwr-stud.io) at [Sasso Residency](http://www.sasso-residency.ch/)
 
 [Exemple site](http://www.pwr-stud.io/sassolino)
 
