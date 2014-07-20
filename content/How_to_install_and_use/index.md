@@ -1,22 +1,15 @@
-sassolino
-=========
-
-A very small flat-file CMS. Made by [PWR Studio](http://www.pwr-stud.io) at [Sasso Residency](http://www.sasso-residency.ch/)
-
-[Exemple site](http://www.pwr-stud.io/sassolino)
-
-sassolino will output a simple website from a structure of folders. If will create a page for each folder and automatically show the files within.
+sassolino will output a simple website, like this one, from a structure of folders. If will create a page for each folder and automatically show the files within.
 
 Currently the following material will be shown 
 - Text (.md, .txt, .html)
 - Images (.jpg, .png, .gif)
 - Audio (mp3)
 - Video (mp4)
-- Embedded players like youtube, soundcloud, etc... (Embed code in text-file)
+- Embedded players like youtube, soundcloud, etc…
 
 ##Install
 
-Put the files in the root folder of your site.
+Simply [download the files](https://github.com/pwrstudio/sassolino) and put them in the root folder of your site.
 
 ##Use
 
