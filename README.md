@@ -18,11 +18,11 @@ Currently the following material will be shown
 
 ##Install
 
-Put the files in the root folder of your site.
+(1) Put the files in the root folder of your site.
 
-Rename the file “htaccess” to “.htaccess”
+(2) Rename the file “htaccess” to “.htaccess”
 
-Requires PHP and mod_rewrite
+If the site is installed in a subfolder of your webserver (eg. www.server.com/subfolder/) change the line RewriteBase / into RewriteBase /subfolder/ in the files .htaccess.
 
 ##Use
 
